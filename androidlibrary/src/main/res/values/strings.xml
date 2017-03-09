@@ -1,0 +1,4 @@
+<resources>
+    <!-- Resource拆分 -->
+    <string name="app_name">AndroidLibrary</string>
+</resources>

@@ -1,0 +1,65 @@
+<item>
+
+    <item>
+        <name>xml!!!!!此处为模拟地址!!!!!真实地址写到主module去</name>
+        <description>填充API,超时,重试,缓存时间,模拟bean,接口地址</description>
+    </item>
+
+    <item>
+        <name>UrlConfigManager 一次性读取</name>
+        <description>Url配置管理器</description>
+    </item>
+
+    <item>
+        <name>URLData</name>
+        <description>URL实体类</description>
+    </item>
+
+    <item>
+        <name>RequestCallBack</name>
+        <description>请求回调  29页面重写与不重写onFail Cookie失效问题 返回头处理</description>
+    </item>
+
+    <item>
+        <name>RequestParams</name>
+        <description>请求参数(需要排序算法),请求头,低流量模式参数,极速模式参数</description>
+    </item>
+
+    <item>
+        <name>RemoteService</name>
+        <description>请求发起支援类,强制缓存更新策略,网络预判</description>
+    </item>
+
+    <item>
+        <name>HttpRequest</name>
+        <description>请求实际发起类</description>
+    </item>
+
+
+    <item>
+        <name>RequestManager</name>
+        <description>请求终止</description>
+    </item>
+
+
+    <item>
+        <name>DefaultThreadPool</name>
+        <description>线程池</description>
+    </item>
+
+    <item>
+        <name>Response</name>
+        <description>返回项</description>
+    </item>
+
+    <item>
+        <name>TimeResponse</name>
+        <description>标准时间处理工具</description>
+    </item>
+    <item>
+        <name>GZIPParse</name>
+        <description>包括数据访问的压缩与解压缩工具</description>
+    </item>
+
+
+</item>

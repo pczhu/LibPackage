@@ -1,0 +1,16 @@
+<item>
+    <item>
+        <name>BaseActivity</name>
+        <description>基类,清理,统跳分发器</description>
+
+    </item>
+
+
+    <item>
+        <name>UpdateDialog</name>
+        <description>更新页面</description>
+
+    </item>
+
+
+</item>

@@ -1,0 +1,25 @@
+<item>
+    <item>
+        <name>CacheManager</name>
+        <description>缓存主操纵类,Application初始化缓存目录</description>
+
+    </item>
+
+
+    <item>
+        <name>CacheSecret</name>
+        <description>缓存加密</description>
+    </item>
+
+
+    <item>
+        <name>CookieManager</name>
+        <description>cookie操作</description>
+    </item>
+
+    <item>
+        <name>ImageLoader/Fresco</name>
+        <description>图片缓存加载</description>
+    </item>
+
+</item>

@@ -1,0 +1,22 @@
+<item>
+    <item>
+        <name>LoadingDialog</name>
+        <description>加载页</description>
+
+    </item>
+    <item>
+        <name>AlertDialog</name>
+        <description>提示页面</description>
+
+    </item>
+    <item>
+        <name>AdvertisingDialog</name>
+        <description>广告页面</description>
+
+    </item>
+    <item>
+        <name>SafeProgressDialog</name>
+        <description>派生安全弹窗</description>
+
+    </item>
+</item>

@@ -1,0 +1,67 @@
+<item>
+    <item>
+        <name>工具类</name>
+        <description>说明</description>
+    </item>
+    <item>
+        <name>ConvertType</name>
+        <description>类型安全检查</description>
+    </item>
+    <item>
+        <name>AppManager</name>
+        <description>APP堆栈管理</description>
+    </item>
+    <item>
+        <name>StringUtil</name>
+        <description>字符串检查</description>
+    </item>
+    <item>
+        <name>RegularUtil</name>
+        <description>正则表达式</description>
+    </item>
+
+    <item>
+        <name>ScreenUtil</name>
+        <description>屏幕相关参数</description>
+    </item>
+
+    <item>
+        <name>ToastUtils</name>
+        <description>吐司工具</description>
+    </item>
+
+
+    <item>
+        <name>LogUtil</name>
+        <description>log工具</description>
+    </item>
+
+
+    <item>
+        <name>主题切换工具</name>
+        <description>log工具</description>
+    </item>
+
+    <item>
+        <name>DataCollectionUtil</name>
+        <description>后台数据采集到本地工具,增量更新</description>
+    </item>
+
+    <item>
+        <name>FileUtil</name>
+        <description>文件处理工具</description>
+    </item>
+
+    <item>
+        <name>ZIPUtil</name>
+        <description>文件压缩与解压缩工具</description>
+    </item>
+    <item>
+        <name>SerializationUtil</name>
+        <description>各种类型序列化与反序列化工具</description>
+    </item>
+    <item>
+        <name>PermissionUtil</name>
+        <description>权限管理工具</description>
+    </item>
+</item>
